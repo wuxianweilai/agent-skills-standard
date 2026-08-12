@@ -111,3 +111,17 @@
 </p>
 
 你的支持是我继续维护这份开放标准的动力。
+
+---
+
+## 致谢与打赏
+
+如果这份「Agent Skills 统一技能目录标准」对你或你的 Agent 产品有帮助，欢迎请我喝杯咖啡 ☕
+
+<p align="center">
+  <img src="assets/donate-alipay.jpg" width="280" alt="支付宝收款码" />
+  &nbsp;&nbsp;
+  <img src="assets/donate-wechat.jpg" width="280" alt="微信收款码" />
+</p>
+
+你的支持是我继续维护这份开放标准的动力。
